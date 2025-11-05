@@ -10,3 +10,4 @@ class Emne:
     
     def __repr__(self):
         return f"Emne('{self.kode}', '{self.navn}', '{self.semester}', {self.studiepoeng})"
+        
