@@ -242,3 +242,4 @@ def hovedmeny():
 
 if __name__ == "__main__":
     hovedmeny()
+    
