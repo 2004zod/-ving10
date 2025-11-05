@@ -64,3 +64,4 @@ def vis_studieplan():
             print(f"Total: {total_studiepoenger} studiepoeng")
         else:
             print(f"\nSemester {i}: ingen emner")
+            
