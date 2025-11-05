@@ -39,3 +39,4 @@ class Studieplan:
                 result += "Ingen emner"
             result += "\n"
         return result
+        
