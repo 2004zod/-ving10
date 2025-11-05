@@ -25,3 +25,4 @@ def lag_nytt_emne():
     except ValueError:
         print("Studiepoeng må være et tall!")
         return None
+        
